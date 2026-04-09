@@ -1,6 +1,7 @@
 # Justice Through Code Fellow Repository
 
-![jtc_banner](https://user-images.githubusercontent.com/7483633/131503466-5944f383-11c7-4444-83eb-fb8bf10a3c78.jpeg)
+![jtc_banner](<img width="2996" height="470" alt="CU_Fair_Chance_Futures_TM_RGB" src="https://github.com/user-attachments/assets/d2b8cc54-0dd5-41c4-b275-1f54804ea0a6" />
+
 
 
 Repository for lesson plans, demos and code walk-throughs, challenges, and more for the class.
